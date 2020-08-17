@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+## BLOC PATTERN
+## JSON API [TMDB]
+## RxDART
 
 ## Getting Started
 
