@@ -1,6 +1,7 @@
-# movies_bloc
+# Movies Flutter App
 
 A new Flutter application.
+
 
 ## Getting Started
 
