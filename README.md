@@ -6,6 +6,11 @@ A new Flutter application.
 ## JSON API [TMDB]
 ## RxDART
 
+
+# Design
+![ezgif com-video-to-gif (8)](https://user-images.githubusercontent.com/60022292/90435323-1dbd0380-e0cf-11ea-9fbe-e54d45471bbd.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
